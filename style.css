@@ -1,7 +1,45 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: antiquewhite;
+    background-color: #fefae0;
+    font-family: Cochin,  sans-serif;
 }
+
+.logo{
+    font-weight: bold;
+    font-size: 24px;
+    color: #dda15e;
+    text-decoration: none;
+    background-color: #283618;
+    text-align: center;
+}
+.navbar{
+    background-color: #283618;
+    padding: 20px;
+}
+.headers{
+    text-decoration: none;
+    background-color: #283618;
+    color: #dda15e;
+    padding-right: 8px;
+    font-size: 20px;
+    text-align: center;
+}
+.cart{
+    background-color: #283618;
+    color:  #dda15e;
+    text-align: center;
+}
+
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    left: 0;
+}
+
+
 
 
